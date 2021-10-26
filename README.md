@@ -1,6 +1,8 @@
-## Hi, my name is Izabelle, a Developer girl (front end), with a little satire and nerds...
+## Hi, my name is Izabelle <div> <img align="right" alt="Iza-pic" height="150" style="border-radius:200px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"> </div>
+A Developer girl (front end), with a little satire and nerds...
 - 🌱 I’m currently learning Data Science and reinforcing my knowledge in Front-End
 - 🤔 I’m looking for help with Machine Learning and Python
+- 😄 Pronouns: She/her
 <div align="center">
   <a href="https://github.com/izabellesouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabellesouza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -13,7 +15,6 @@
   <img align="center" alt="Iza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div> <img align="right" alt="Iza-pic" height="150" style="border-radius:200px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"> </div>
   
   ##
   
