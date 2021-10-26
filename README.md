@@ -1,7 +1,5 @@
-### Hi, my name is Izabelle, a Developer girl, with a little satire and nerds...<div> <img align="right" alt="Iza-pic" height="150" style="border-radius:200px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"> </div>
-##
-   
-- 🔭 Front End Web Developer
+### Hi, my name is Izabelle, a Developer girl (front end), with a little satire and nerds...<div> <img align="right" alt="Iza-pic" height="150" style="border-radius:200px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"> </div>
+#   
 - 🌱 I’m currently learning Data Science and reinforcing my knowledge in Front-End
 - 🤔 I’m looking for help with Machine Learning and Python
 
