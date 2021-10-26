@@ -1,13 +1,11 @@
 ### Hi, my name is Izabelle, a Developer girl, with a little satire and nerds...<div> <img align="right" alt="Iza-pic" height="150" style="border-radius:200px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"> </div>
-
-#
+##
    
 - 🔭 Front End Web Developer
 - 🌱 I’m currently learning Data Science and reinforcing my knowledge in Front-End
 - 🤔 I’m looking for help with Machine Learning and Python
-- 😄 Pronouns: She/her
-#
 
+#
 <div align="center">
   <a href="https://github.com/izabellesouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabellesouza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
