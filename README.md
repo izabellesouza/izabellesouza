@@ -18,8 +18,8 @@ A Developer girl (front end), with a little satire and nerds...
   <a href="https://twitter.com/aizabellesouza" target="_blank"> <img src="https://img.shields.io/badge/twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="ícone twitter"</a>
  	<a href="https://www.twitch.tv/ysla_hayabusa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://docs.microsoft.com/pt-br/users/izabellesouza/" target="_blank"><img src="https://img.shields.io/badge/microsoft-learning-%23E4405F?style=for-the-badge&logo=&logoColor=white"></a>
-  <a href = "mailto:izabellepsouzaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/izabelle-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/izabelle-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/@me/796496557830045776" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/izabellesouza/izabellesouza/blob/output/github-contribution-grid-snake.svg)
  
