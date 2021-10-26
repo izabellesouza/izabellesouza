@@ -22,7 +22,7 @@
   ##
   
   <div> 
-  <a href="https://twitter.com/aizabellesouza" target="_blank"><img src="https://img.shields.io/badge/twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/aizabellesouza" target="_blank"><img src="https://img.shields.io/badge/twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"target="blank"></a>
  	<a href="https://www.twitch.tv/ysla_hayabusa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://docs.microsoft.com/pt-br/users/izabellesouza/" target="_blank"><img src="https://img.shields.io/badge/microsoft-learning-%23E4405F?style=for-the-badge&logo=&logoColor=white"></a>
   <a href = "mailto:izabellepsouzaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
