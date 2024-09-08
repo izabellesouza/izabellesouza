@@ -2,6 +2,7 @@
 A Developer girl (front end), with a little satire and nerds...
 - 🌱 I’m currently learning Python, Data Science Basic, and reinforcing my knowledge in Front-End
 - 🤔 I’m looking for help with Machine Learning, and Python advanced
+- 🤖 Artificial intelligence graduate student
 - 😄 Pronouns: She/her
 
 
